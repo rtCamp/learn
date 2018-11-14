@@ -52,5 +52,3 @@ Completed a Challenge?
 Paste your GitHub repo link under ["Work Sample Link(s)" in this form](https://careers.rtcamp.com/systems-engineer/#application-form-systems-engineer).
 
 Complete and submit the form. We'll get in touch with you within one working day! Questions? Doubts? Just wanna say hi🖖? Email us at [hr@rtcamp.com](mailto:hr@rtcamp.com)
-
-**Links:** [FAQ's](https://careers.rtcamp.com/faq/) | [Work Culture](https://careers.rtcamp.com/work-culture/) | [We've got a job for you](https://careers.rtcamp.com/systems-engineer/#application-form-systems-engineer)

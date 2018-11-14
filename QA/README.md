@@ -5,5 +5,3 @@
 *   Attach the necessary screenshots to support the bug description.
 *   In the **Application Form** for **Work Sample **field, paste the link to your Google Sheet.
 *   Before submitting the application, please make sure you don’t forget to turn “**Link Sharing on**” with “**Edit**” privilege on the Google Sheet.
-
-**Links**: [FAQ's](https://careers.rtcamp.com/faq/) | [Work Culture](https://careers.rtcamp.com/work-culture/) | [Application Form](https://careers.rtcamp.com/qa-engineer/#application-form)

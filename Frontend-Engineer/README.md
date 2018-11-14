@@ -36,5 +36,3 @@ Completed the challenge?
 Paste your GitHub repo link under [Work Sample Link(s)](https://careers.rtcamp.com/front-end-web-engineer/#application-form) in this form. Complete and submit the form.
 
 Questions? Doubts? Just wanna say hi🖖? Email us at [hr@rtcamp.com](mailto:hr@rtcamp.com)
-
-**Links:** [FAQ’s](https://careers.rtcamp.com/faq/) | [Work Culture](https://careers.rtcamp.com/work-culture/) | [We’ve got a job for you](https://careers.rtcamp.com/front-end-web-engineer/#application-form)

@@ -3,7 +3,7 @@
 The Challenge
 -------------
 
-1.  Download the [Assignment File](https://careers.rtcamp.com/wp-content/uploads/2015/11/FrontEnd_Developer_Assignment.zip) and extract the PSD file.
+1.  Download the [Assignment File](https://github.com/rtCamp/hiring-assignments/raw/master/Frontend-Engineer/FrontEnd-Developer-Assignment.zip) and extract the PSD file.
 2.  Create a static webpage based on the PSD file.
 3.  Add interactivity to the static page with the help of JavaScript or JavaScript Libraries.
 4.  Use of any front-end frameworks will be an added advantage.
@@ -31,6 +31,7 @@ Before you start with the assignment, please note down our common minimum requ
 
 Completed the challenge?
 ------------------------
+![](https://media.githubusercontent.com/media/rtCamp/hiring-assignments/master/img/hello-there.jpg)
 
 Paste your GitHub repo link under [Work Sample Link(s)](https://careers.rtcamp.com/front-end-web-engineer/#application-form) in this form. Complete and submit the form.
 

@@ -58,7 +58,7 @@ Create a small PHP-script to accomplish following parts: **Part-1: User Timeline
 3.  For Google-spreadsheet export feature, your app-user must have Google account. Your app should ask for permission to create a spreadsheet on user's Google-Drive.
 4.  Once the user clicks download button (after choosing option) all followers of the specified user should be downloaded.
 
-**Note –** We are aware of Twitter API limits for retrieving tweets/follower’s data although you have to overcome these by thinking outside the box, like we do at rtCamp. If you're not able to obtain developer account within the stipulated time then please attempt the [Facebook-Photos Challenge](https://careers.rtcamp.com/web-engineer/assignments/#challenge-2-facebook-photos-challenge).
+**Note –** We are aware of Twitter API limits for retrieving tweets/follower’s data although you have to overcome these by thinking outside the box, like we do at rtCamp. If you're not able to obtain developer account within the stipulated time then please attempt the [Facebook-Photos Challenge](#challenge-2-facebook-photos-challenge).
 
 ### Challenge-2: Facebook-Photos Challenge
 
@@ -96,7 +96,7 @@ Create a small PHP-script to accomplish following parts: **Part-1: Album Slidesh
 Completed a Challenge?
 ----------------------
 
-![](https://careers.rtcamp.com/wp-content/uploads/2017/12/21erjd-400x268.jpg)
+![](https://media.githubusercontent.com/media/rtCamp/hiring-assignments/master/img/hello-there.jpg)
 
 Paste your GitHub repo link under ["Work Sample Link(s)" in this form](https://careers.rtcamp.com/web-engineer/#application-form---web-engineer-php). Complete and submit the form. We'll get in touch with you within one working day!
 

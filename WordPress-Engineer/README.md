@@ -97,7 +97,7 @@ This plugin will test if you are familiar with [WordPress metabox](http://codex.
 Completed a Challenge?
 ----------------------
 
-![](https://careers.rtcamp.com/wp-content/uploads/2017/12/21erjd-400x268.jpg)
+![](https://media.githubusercontent.com/media/rtCamp/hiring-assignments/master/img/hello-there.jpg)
 
 Paste your GitHub repo link under ["Work Sample Link(s)" in this form](https://careers.rtcamp.com/wordpress-engineer/#application-form---wordpress-engineer). Complete and submit the form. We'll get in touch with you within one working day!
 

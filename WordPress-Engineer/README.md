@@ -48,8 +48,8 @@ Please create a WordPress theme based on details provided in the attachment. Att
 
 Below are download links for two WordPress theme challenges, with different complexity levels. You can take any one based on your skills, expertise and interests.
 
-*   [Simple PSD to WordPress Theme Assignment](https://careers.rtcamp.com/wp-content/uploads/2012/07/PSD-to-WordPress-Simple-HomePage-Only.zip "Download Assignment")
-*   [Complex PSD to WordPress Theme Assignment](https://careers.rtcamp.com/wp-content/uploads/2012/07/PSD-to-WordPress-Complex-Home-Page-Only.zip "Download Assignment")
+*   [Simple PSD to WordPress Theme Assignment](https://github.com/rtCamp/hiring-assignments/raw/master/WordPress-Engineer/PSD-to-WordPress-Simple-HomePage-Only.zip "Download Assignment")
+*   [Complex PSD to WordPress Theme Assignment](https://github.com/rtCamp/hiring-assignments/raw/master/WordPress-Engineer/PSD-to-WordPress-Complex-Home-Page-Only.zip "Download Assignment")
 
 **Important Notes:**
 

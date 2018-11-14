@@ -1,2 +1,5 @@
 WordPress-Engineer/PSD-to-WordPress-Complex-Home-Page-Only.zip filter=lfs diff=lfs merge=lfs -text
 WordPress-Engineer/PSD-to-WordPress-Simple-HomePage-Only.zip filter=lfs diff=lfs merge=lfs -text
+Frontend-Engineer/FrontEnd-Developer-Assignment.zip filter=lfs diff=lfs merge=lfs -text
+QA/Manual-Testing-Readme.zip filter=lfs diff=lfs merge=lfs -text
+img/hello-there.jpg filter=lfs diff=lfs merge=lfs -text

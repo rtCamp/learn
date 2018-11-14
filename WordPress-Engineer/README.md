@@ -33,8 +33,8 @@ List of Challenges
 
 We have two kinds of challenges for WordPress:
 
-1.  WordPress Theme Challenges
-2.  WordPress Plugin Challenges
+1.  [WordPress Theme Challenges](#challenge-1-wordpress-theme-challenge)
+2.  [WordPress Plugin Challenges](#challenge-2-wordpress-plugin-challenge)
 
 You need to complete any one. If you wish to complete two, we won't mind. ;-)
 

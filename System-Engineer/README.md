@@ -47,7 +47,7 @@ Use your imagination to either improve the functionality of the above commands o
 Completed a Challenge?
 ----------------------
 
-![](https://careers.rtcamp.com/wp-content/uploads/2017/12/21erjd-400x268.jpg)
+![](https://media.githubusercontent.com/media/rtCamp/hiring-assignments/master/img/hello-there.jpg)
 
 Paste your GitHub repo link under ["Work Sample Link(s)" in this form](https://careers.rtcamp.com/systems-engineer/#application-form-systems-engineer).
 

@@ -1,6 +1,6 @@
 # Manual Testing Assignment
 
-*   Please download the [Manual Testing Readme](https://careers.rtcamp.com/wp-content/uploads/2016/08/Manual-Testing-Readme.zip).
+*   Please download the [Manual Testing Readme](https://github.com/rtCamp/hiring-assignments/raw/master/QA/Manual-Testing-Readme.zip).
 *   Compare the readme file against the webpage [qa.rtcamp.net](http://qa.rtcamp.net) and mark the issues using [Google Sheets](https://www.google.co.in/sheets/about/).
 *   Attach the necessary screenshots to support the bug description.
 *   In the **Application Form** for **Work Sample **field, paste the link to your Google Sheet.

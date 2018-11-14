@@ -33,8 +33,8 @@ List of Challenges
 
 Complete any one challenge from the following list. There is no time limit. Quality is more important.
 
-1.  [Twitter-Timeline Challenge](#twitter-challenge)
-2.  [Facebook-Album Challenge](#facebook-challenge)
+1.  [Twitter-Timeline Challenge](#challenge-1-twitter-timeline-challenge)
+2.  [Facebook-Album Challenge](#challenge-2-facebook-photos-challenge)
 
 ### Challenge-1: Twitter-Timeline Challenge
 

@@ -1,4 +1,4 @@
-# Sample Challenges for WordPress Engineers
+# WordPress Engineer Assignment
 
 **Already Developed on WordPress?** If you have already developed a plugin or theme on WordPress, you can use it as a work sample. Just make sure your code is complaint with the rules of the game.
 
@@ -8,7 +8,7 @@ Rules of the Game
 -----------------
 
 *   Some challenges have multiple parts. You must complete all parts.
-*   Use of Google is allowed & encouraged. ;-)
+*   Use of Google is allowed & encouraged. 😉
 *   You are also free to use 3rd party libraries. But please mention if you use them.
 
 ### Web Hosting for Demo purpose
@@ -20,11 +20,11 @@ For all coding challenges below, you will need a web host to showcase your worki
 Before you choose a challenge, please note down our common minimum requirements applicable to all challenges.
 
 1.  **UI Framework** - Use Foundation/Bootstrap for CSS/JS. Make sure what you create looks nice!
-2.  **Responsive -** Your code must work on mobile devices like iPhone/Android.
+2.  **Responsive** - Your code must work on mobile devices like iPhone/Android.
 3.  **Code Organisation** - All 3rd party codes, library must be inside `lib` folder. No unwanted files e.g. IDE files, temporary files should be committed on git-repo. _(Hint: Write a nice `.gitignore`)_
 4.  **Coding Standard** - Your code must pass WordPress coding standard. You can use PHP Code Sniffer and JSHint on localhost. Additionally, you can should configure [scrutinizer-ci](https://scrutinizer-ci.com/) so your code quality can be seen easily.
 5.  **Unit Testing** - Submissions without unit tests will not be accepted. You may use [wp-cli to setup unit testing easily](http://wp-cli.org/blog/plugin-unit-tests.html).
-6.  **Github Readme -** Write a nice Github Readme using markdown syntax. Make sure you include demo link and links to libraries used in readme.
+6.  **Github Readme** - Write a nice Github Readme using markdown syntax. Make sure you include demo link and links to libraries used in readme.
 
 Failure to meet any of above guidelines will result in disqualification.
 
@@ -65,7 +65,9 @@ There are already more than 10000 WordPress plugins out there. So it’s really 
 
 #### Challenge-2a: WordPress-Slideshow Plugin
 
-This plugin will test if you are familiar with WordPress shortcodes. **Admin-Side:**
+This plugin will test if you are familiar with WordPress shortcodes. 
+
+**Admin-Side:**
 
 1.  Create an admin-side settings page.
 2.  Provide an interface to add/remove images from plugin settings page.
@@ -79,7 +81,9 @@ This plugin will test if you are familiar with WordPress shortcodes. **Admin-Sid
 
 #### Challenge-2b: WordPress-Contributors Plugin
 
-This plugin will test if you are familiar with [WordPress metabox](http://codex.wordpress.org/Function_Reference/add_meta_box) functionality. Goal is to create a plugin so that we can display more than one author-name on a post. **Admin-Side:**
+This plugin will test if you are familiar with [WordPress metabox](http://codex.wordpress.org/Function_Reference/add_meta_box) functionality. Goal is to create a plugin so that we can display more than one author-name on a post. 
+
+**Admin-Side:**
 
 1.  Add a new metabox, labeled "contributors" to WordPress post-editor page.
 2.  This metabox will display list of authors (wordpress users) with a checkbox for each author.
@@ -94,11 +98,7 @@ This plugin will test if you are familiar with [WordPress metabox](http://codex.
 4.  Show contributor names with their Gravatars.
 5.  Contributor-names must be clickable and will link to their respective "author" page.
 
-Completed a Challenge?
-----------------------
+Challenge Completed?
+--------------------
 
-![](https://media.githubusercontent.com/media/rtCamp/hiring-assignments/master/img/hello-there.jpg)
-
-Paste your GitHub repo link under ["Work Sample Link(s)" in this form](https://careers.rtcamp.com/wordpress-engineer/#application-form---wordpress-engineer). Complete and submit the form. We'll get in touch with you within one working day!
-
-Questions? Doubts? Just wanna say hi🖖? Email us at [hr@rtcamp.com](mailto:hr@rtcamp.com)
+Share the Demo working link and the GitHub repository link with us.

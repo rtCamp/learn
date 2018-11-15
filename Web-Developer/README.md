@@ -1,4 +1,4 @@
-# Sample Challenges for Web Developers
+# Web Developer Assignment
 
 If you can develop on WordPress, you can directly apply for [WordPress developer opening here](https://careers.rtcamp.com/wordpress-engineer/assignment/ "WordPress Developer Assignment"). At rtCamp, we believe coding should be fun. For the same reason, we have set up multiple challenges for you! Choose a challenge based on your interest/expertise. Rather than merely completing tasks/steps mentioned below, go ahead and use your own imagination to make your code as good as possible!
 
@@ -8,7 +8,7 @@ Rules of the Game
 *   Use git and Github from the start of your challenge.
 *   Some challenges have multiple parts. It is must to complete all the parts.
 *   Feel free to add any extra functionality you want to make your submission better.
-*   Use of Google is allowed & encouraged. ;-)
+*   Use of Google is allowed & encouraged. 😉
 *   You are also free to use 3rd party **php libraries**. But please mention if you use them.
 
 ### Web Hosting for Demo purpose
@@ -24,7 +24,7 @@ Before you choose a challenge, please note down our common minimum requirement
 3.  **Code Organisation** - All 3rd party codes, library must be inside `lib` folder. No unwanted files e.g. IDE files, temporary files should be committed on git-repo. _(Hint: Write a nice `.gitignore`)_
 4.  **Coding Standard** - You can use PHP Code Sniffer and JSHint on localhost. Additionally, you can configure [scrutinizer-ci](https://scrutinizer-ci.com/) so your code quality can be seen easily.
 5.  **Unit Testing** - You should use [phpunit testing library](https://phpunit.de). You should integrate travis or any other CI to run point 4 and 5. This will be considered as plus point and would be given priority in sorting.
-6.  **GitHub Readme - **Write a nice GitHub Readme using markdown syntax. Make sure you include demo link, links to libraries and CI badge used in readme.
+6.  **GitHub Readme** - Write a nice GitHub Readme using markdown syntax. Make sure you include demo link, links to libraries and CI badge used in readme.
 
 Failure to meet any of above guidelines will result in disqualification.
 
@@ -38,7 +38,9 @@ Complete any one challenge from the following list. There is no time limit. Qual
 
 ### Challenge-1: Twitter-Timeline Challenge
 
-Create a small PHP-script to accomplish following parts: **Part-1: User Timeline**
+Create a small PHP-script to accomplish following parts: 
+
+**Part-1: User Timeline**
 
 1.  Start => User visits your script page.
 2.  User will be asked to connect using his Twitter account using Twitter Auth.
@@ -62,7 +64,9 @@ Create a small PHP-script to accomplish following parts: **Part-1: User Timeline
 
 ### Challenge-2: Facebook-Photos Challenge
 
-Create a small PHP-script to accomplish following parts: **Part-1: Album Slideshow**
+Create a small PHP-script to accomplish following parts: 
+
+**Part-1: Album Slideshow**
 
 1.  User visits your script page
 2.  User will be asked to connect using his FB account
@@ -93,11 +97,7 @@ Create a small PHP-script to accomplish following parts: **Part-1: Album Slidesh
 
 **Note -** Before submitting your challenge for review, please add Facebook profile with username '[rtc.test](https://www.facebook.com/rtc.test)' as tester while your app is in development mode. This will expedite the review process.
 
-Completed a Challenge?
-----------------------
+Challenge Completed?
+--------------------
 
-![](https://media.githubusercontent.com/media/rtCamp/hiring-assignments/master/img/hello-there.jpg)
-
-Paste your GitHub repo link under ["Work Sample Link(s)" in this form](https://careers.rtcamp.com/web-engineer/#application-form---web-engineer-php). Complete and submit the form. We'll get in touch with you within one working day!
-
-Questions? Doubts? Just wanna say hi🖖? Email us at [hr@rtcamp.com](mailto:hr@rtcamp.com)
+Share the Demo working link and the GitHub repository link with us.

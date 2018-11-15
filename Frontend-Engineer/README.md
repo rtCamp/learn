@@ -17,7 +17,7 @@ Guidelines
 ----------
 
 1.  Use of Google is allowed & encouraged. 😉
-2.  You are also free to use 3rd party libraries / frameworks. But please mention if you use them.
+2.  You are also free to use 3rd party libraries / frameworks but, please mention them if used.
 3.  Your code should be uploaded on Github.
 
 Coding Guidelines

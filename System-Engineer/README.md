@@ -1,4 +1,4 @@
-# Sample Challenges for Systems Engineers
+# System Engineer Assignment
 
 Server monkeys. Automation enthusiasts. Command line inhabitants. Welcome! Below are a couple of challenges that you can start hacking away at over the coming weekend. Have fun!
 
@@ -44,11 +44,7 @@ Create a command-line blogging application which implements following commands i
 
 Use your imagination to either improve the functionality of the above commands or add more of your own commands.
 
-Completed a Challenge?
-----------------------
+Challenge Completed?
+-------------------
 
-![](https://media.githubusercontent.com/media/rtCamp/hiring-assignments/master/img/hello-there.jpg)
-
-Paste your GitHub repo link under ["Work Sample Link(s)" in this form](https://careers.rtcamp.com/systems-engineer/#application-form-systems-engineer).
-
-Complete and submit the form. We'll get in touch with you within one working day! Questions? Doubts? Just wanna say hi🖖? Email us at [hr@rtcamp.com](mailto:hr@rtcamp.com)
+Share the GitHub repository link with us.

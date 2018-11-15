@@ -1,4 +1,4 @@
-# Manual Testing Assignment
+# Quality Assurance Engineer - Manual Testing Assignment
 
 *   Please download the [Manual Testing Readme](https://github.com/rtCamp/hiring-assignments/raw/master/QA/Manual-Testing-Readme.zip).
 *   Compare the readme file against the webpage [qa.rtcamp.net](http://qa.rtcamp.net) and mark the issues using [Google Sheets](https://www.google.co.in/sheets/about/).

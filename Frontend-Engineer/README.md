@@ -1,4 +1,4 @@
-# Frontend Engineer Assignment
+# Front - End Engineer Assignment
 
 The Challenge
 -------------
@@ -16,7 +16,7 @@ For all coding challenges below, you will need a web host to showcase your worki
 Guidelines
 ----------
 
-1.  Use of Google is allowed & encouraged. ;-)
+1.  Use of Google is allowed & encouraged. 😉
 2.  You are also free to use 3rd party libraries / frameworks. But please mention if you use them.
 3.  Your code should be uploaded on Github.
 
@@ -25,14 +25,12 @@ Coding Guidelines
 
 Before you start with the assignment, please note down our common minimum requirements. Below are links shared to assist you with the coding guidelines.
 
-1.  [HTML coding standard](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/).
-2.  [CSS Coding standard](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/).
-3.  [JavaScript Coding Standard](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/).
+1.  [HTML coding standard](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/)
+2.  [CSS Coding standard](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
+3.  [JavaScript Coding Standard](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/)
 
-Completed the challenge?
-------------------------
-![](https://media.githubusercontent.com/media/rtCamp/hiring-assignments/master/img/hello-there.jpg)
 
-Paste your GitHub repo link under [Work Sample Link(s)](https://careers.rtcamp.com/front-end-web-engineer/#application-form) in this form. Complete and submit the form.
+Challenge Completed?
+-----------------
 
-Questions? Doubts? Just wanna say hi🖖? Email us at [hr@rtcamp.com](mailto:hr@rtcamp.com)
+Share the Demo working link and the GitHub repository link with us.

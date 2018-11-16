@@ -25,6 +25,7 @@ You can check following links to find out more about rtCamp.
 
 Once you analyze the present situation, please create a plan of action. You need to give details about **how** part. We are not interested in one-liner suggestion.
 
+
 **So, your submission must have:**
 
 1. List of problems/areas of improvement you have identified.

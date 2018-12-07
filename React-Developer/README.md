@@ -1,29 +1,39 @@
-# Front - End Engineer Assignment
+# React Developer Assignment
 
 The Challenge
 -------------
 
-1.  Download the [Assignment File](https://github.com/rtCamp/hiring-assignments/raw/master/Frontend-Engineer/FrontEnd-Developer-Assignment.zip) and extract the PSD file.
-2.  Create a static webpage based on the PSD file.
-3.  Add interactivity to the static page with the help of JavaScript or JavaScript Libraries.
-4.  Use of any front-end frameworks will be an added advantage.
+- Create a simple blog theme using **React** and **WP REST API.**
+  - Header - Brand Logo, Header Menu 
+  - Footer - Brand Logo, Footer Menu
+  - Home - Should Display Latest # Posts ( Title and excerpt only ) with pagination
+  - Single - Display post with full content
+  - Category - Display Latest # Posts with pagination
+  - Should be SEO friendly (server-side rendering)
+  - Use semantic markup.
+- You can free to use any design. Keeping design minimal and clean is advised. 
+
 
 Web Hosting for Demo purpose
 ----------------------------
 
-For all coding challenges below, you will need a web host to showcase your working demo. You can use free web hosting for your demo. Microsoft Azure, Google Cloud, Amazon AWS – all offer free trial plan. You can use any of these cloud providers or simply any free web hosting.
+For all coding challenges below, you will need a web host to showcase your working demo. You can use free web hosting for your demo. Heroku, Amazon AWS, Digital Ocean, Google Cloud, – all offer a free trial plan. You can use any of these cloud providers or simply any free web hosting.
 
 Guidelines
 ----------
 
-1.  Use of Google is allowed & encouraged. 😉
-2.  You are also free to use 3rd party libraries / frameworks but, please mention them if used.
-3.  Your code should be uploaded on Github.
+- Use of Google is allowed & encouraged 😉
+- Your code should be uploaded on Github
+- Use Webpack 
+- Use of ES6 or greater is recommended
+- Use of SCSS/LESS will have extra points.
+- Use of unit-tests is a big plus
+
 
 Coding Guidelines
 -----------------
 
-Before you start with the assignment, please note down our common minimum requirements. Below are links shared to assist you with the coding guidelines.
+Before you start with the assignment, please note down our common minimum requirements. Below are links shared to assist you with the coding guidelines.
 
 1.  [HTML coding standard](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/)
 2.  [CSS Coding standard](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)

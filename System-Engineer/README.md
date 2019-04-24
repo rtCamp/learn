@@ -34,7 +34,7 @@ Create a command-line blogging application which implements following commands i
 
 1.  `blog.sh` will return the name of your application
 2.  `blog.sh --help` will list help text and commands available
-3.  `blog.sh post add "title" "content"` will add a new blog a new blog post with the specified title and content
+3.  `blog.sh post add "title" "content"` will add a new blog post with the specified title and content
 4.  `blog.sh post list` will list all blog posts
 5.  `blog.sh post search "keyword"` will list all blog posts where “keyword” is found in the title and/or content
 6.  `blog.sh category add "category-name"` will create a new category

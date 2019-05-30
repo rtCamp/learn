@@ -29,13 +29,13 @@ Test Objective | Expected Results
 Login with valid username and password and should be able to successfully login | User should successfully log in
 URL: https://qa.rtcamp.net/activity/ UN: demo PW: demo 
 Login with invalid username and password and should not be able to login | User should get the error message, should not get logged in
-Update the status of a post with any of the media type and w privacy should be private | Media should be uploaded with private privacy
+Update the status of a post with any of the media type and privacy should be private | Media should be uploaded with private privacy
 Create the album with any valid name with private privacy and upload 5 media inside that album URL: https://qa.rtcamp.net/members/demo/media/album/ | Album should be created with given name and privacy, 5 media should be uploaded successfully
 Like/Unlike the media (Open any recently uploaded media, Click on like) | Media should show Unlike once liked and vice versa. If liked it should appear here https://qa.rtcamp.net/members/demo/media/likes/
 Change cover image (Go to profile, Click on change cover image) | The cover image should be updated successfully
 
 # Manual Testing
-*   Please download the [Manual Testing Readme](https://github.com/rtCamp/hiring-assignments/blob/master/QA/Manual-Testing-Readme.png).
+*   Please download the [Manual Testing Readme](https://github.com/rtCamp/hiring-assignments/blob/master/QA/QA%20Testing%20Readme.png).
 *   Compare the readme file against the webpage [qa.rtcamp.net](http://qa.rtcamp.net), check for **responsiveness** of the page and mark the issues using mark the issues using Github issues. Use the **same repo** as the one used for Automation Testing.
 *   Attach the necessary screenshots to support the bug description.
 

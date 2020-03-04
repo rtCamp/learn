@@ -36,8 +36,14 @@ Change cover image (Go to profile, Click on change cover image) | The cover imag
 
 # Manual Testing
 *   Please download the [Manual Testing Readme](https://github.com/rtCamp/hiring-assignments/blob/master/QA/QA%20Testing%20Readme.png).
-*   Compare the readme file against the webpage [qa.rtcamp.net](http://qa.rtcamp.net), check for **responsiveness** of the page and mark the issues using mark the issues using Github issues. Use the **same repo** as the one used for Automation Testing.
-*   Attach the necessary screenshots to support the bug description.
+*   Do the UI testing of qa.rtcamp.net web page w.r.t Readme file you have downloaded.
+*   Also, check for responsiveness of the qa.rtcamp.net web page w.r.t below screen size[Portrait and Landscape mode both]
+      * 360X640
+      * 375X667
+      * 414X736
+      * 768X1024
+*   Mark the issues using GitHub issues. Use the same repo as the one used for Automation Testing.
+*   Attach the necessary screenshots to explain the bug description.
 
 Challenge Completed?
 --------------------

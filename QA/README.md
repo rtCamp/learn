@@ -13,7 +13,7 @@ This assignment will assess both manual and automation testing skills. You must 
 
 ### Documentation Process
 
-* Create scripts for test cases given below on [Codeception](https://codeception.com/)
+* Create scripts for test cases given below on [Jest](https://jestjs.io/) or [Codeception](https://codeception.com/)
 * Keep all the automation code in Github root itself
 * Create a Readme for your repo which will describe the following
   * A short description of the repo

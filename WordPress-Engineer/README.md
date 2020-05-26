@@ -1,5 +1,9 @@
 # WordPress Engineer Assignment
 
+⚠️ Please use our [template Github repo](https://github.com/rtlearn/wp-starter#1-using-github-classroom-assignment-link) for your coding which has automated code scanning pre-configured to help you achieve the code quality during your assignent work. ⚠️
+
+_____
+
 **Already Developed on WordPress?** If you have already developed a plugin or theme on WordPress, you can use it as a work sample. Just make sure your code is complaint with the rules of the game.
 
 As rtCamp is mainly into WordPress themes, plugins, customization, migrations & more, we have plenty of interesting work in every aspect of WordPress. Keeping that in mind, we have created a challenge for WordPress themes & plugins. Choose one which you like more!

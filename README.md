@@ -1,5 +1,10 @@
-# How to start? 
+# About this repo
 
-1. Select the folder of the job position you wish to apply for.
-1. In case of multiple challenges for a single job role, choose the one that interests you the most.
-1. Complete the assignment and share the link(s) of the assignment attempted as a reply to the email received from us or submit it through the [application form](https://rtcamp.com/careers/).
+Students involved with [learn.rtcamp.com](https://learn.rtcamp.com/) can use Github discussion feature on this repo to communicate with each other and rtCamp team.
+
+# Useful links
+
+* [WordPress Course](https://learn.rtcamp.com/)
+* [Campus 2021 for July 2021 and Jan 2022 batches](https://learn.rtcamp.com/campus/)
+* [Assignments](https://rtcamp.com/assignments/)
+* [Careers @rtCamp](https://rtcamp.com/careers/)

@@ -1,6 +1,6 @@
 # About this repo
 
-Students involved with [learn.rtcamp.com](https://learn.rtcamp.com/) can use [Github discussion](https://github.com/rtCamp/learn/discussions) feature on this repo to communicate with each other and rtCamp team.
+Students involved with [learn.rtcamp.com](https://learn.rtcamp.com/) can use the [rtCamp Career Helpdesk](https://erp.rtcamp.com/helpdesk) to communicate with the rtCamp team and seek assistance.
 
 # Useful links
 
